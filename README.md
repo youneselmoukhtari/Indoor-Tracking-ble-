@@ -3,9 +3,6 @@ A proof of concept demonstrating tracking of an asset in a warehouse using ESP32
 The dashboard is built using React framework hosted by node.js server running on Raspberry Pi.
 Dump the code of ESP32 station in ESP32 module and run the dashboard app on the Raspberry Pi.
 
-# Credit to : 
- Initial Framework : https://github.com/jarkko-hautakorpi/iBeacon-indoor-positioning-demo
-
 # Algorithm :
 1) Each ESP32 module is connected to the Raspberry Pi 3B+ with their respective MAC addresses via MQTT Protocol
 
